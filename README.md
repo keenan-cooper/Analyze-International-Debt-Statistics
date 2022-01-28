@@ -1,8 +1,8 @@
 <img width="865"  src="https://user-images.githubusercontent.com/68494141/151514233-3d451275-5654-4526-9bc3-dc7c07d19919.png">
 
 # Analyze International Debt Statistics
-## ~The World Bank's International Debt Data~
-#### A Datacamp SQL Project 
+## ~ The World Bank's International Debt Data ~
+#### _A Datacamp SQL Project_ 
 ## Table of Contents
 
 1. [Project Overview](#project)
